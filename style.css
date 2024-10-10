@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+h1 {
+    color: #00695c;
+}
+.card {
+    background-color: #fff9c4;
+    border: 2px solid #004d40;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 60%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+}
+.card p {
+    margin: 5px 0;
+    font-size: 18px;
+}
+.card span {
+    font-weight: bold;
+}
